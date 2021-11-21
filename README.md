@@ -20,10 +20,4 @@
 <a href="https://github.com/s1s1ty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=s1s1ty&theme=default&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
-<a href="https://github.com/s1s1ty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1s1ty&theme=default&langs_count=3&hide=javascript,html,css,Jupyter Notebook" />
-</a>
-
-
-
 
