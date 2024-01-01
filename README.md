@@ -7,13 +7,6 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://s1s1ty.medium.com/)
 
 
-**Talking about Personal Stuffs:**
-
-- 📝 I’m currently writing my Master's thesis in [Technische Universität Dresden](https://tu-dresden.de/?set_language=en)
-    - Topic: Real Time Semantic Segmentation
-- 👨🏻‍💻 Working as a part-time ML engineer in [elevait GmbH & Co. KG](https://elevait.de/)
-- 🚀 3 years of software development(Backend) experience on ride-sharing and ERP domain
-
 
 📈 **My GitHub Stats:**
 
